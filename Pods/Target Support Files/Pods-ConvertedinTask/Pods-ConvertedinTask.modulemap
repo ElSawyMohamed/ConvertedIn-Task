@@ -1,0 +1,6 @@
+framework module Pods_ConvertedinTask {
+  umbrella header "Pods-ConvertedinTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
